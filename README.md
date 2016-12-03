@@ -1,4 +1,7 @@
 
 First file to commit
 
-Changed the file 
+Changed the file
+Modified file
+
+Now updated this file on FeatureBranch
