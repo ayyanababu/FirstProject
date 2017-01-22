@@ -1,5 +1,5 @@
 Hi This is my second file in the git going
 to push
-in the git
+changed line 3 in new_branch
 as for my testing
 legally standards
