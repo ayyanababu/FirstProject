@@ -5,3 +5,4 @@ as for my testing
 legally standards
 added new line  1 in new_branch
 added new line  2 in new_branch
+added new line  3 in new_branch
