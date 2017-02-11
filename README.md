@@ -1,5 +1,5 @@
 
-First file to commit
+First commit
 
 Changed the file
 Modified file
