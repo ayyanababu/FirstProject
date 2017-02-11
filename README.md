@@ -1,7 +1,3 @@
-
-First commit
-
-
 Changed the file
 Modified file
 
