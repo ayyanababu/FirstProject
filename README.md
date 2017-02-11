@@ -1,5 +1,5 @@
 
-First file
+First file changed by new terminal
 
 Changed the file
 Modified file
