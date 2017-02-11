@@ -1,10 +1,17 @@
 
-First file to commit
+First file
+
+Changed the file
+Modified file
+
+
+Changed the file
+Modified file
+
 
 Changed the file
 Modified file
 
 Now updated this file on MasterBranch
-
 
 Now doing on master, now on updates branch
