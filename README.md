@@ -2,7 +2,7 @@
 
 First file changed by new terminal
 
-Changed the file
+Changed the file in master from shankar
 Modified file
 
 
